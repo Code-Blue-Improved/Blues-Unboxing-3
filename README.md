@@ -3,7 +3,7 @@
 **Please ensure you have installed the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1369926934&searchtext=blue%27s+unboxing+3) content.**
 
 ## Credits
-* <CODE BLUE> - Programming, sound, concept.
+* CODE BLUE - Programming, sound, concept.
 * Atlas - UI Layout and concept/design
 * doesNootCompute (Vloxan) - Helping test and make sure things are all good
 * Danny - Helping test a lot of things and suggesting ideas during development.
